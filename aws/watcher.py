@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python -u
 '''A daemon which parses nginx configs, and
     checks to see whether the IPs of any backend nodes have changed.
 '''
